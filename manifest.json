@@ -1,0 +1,15 @@
+{
+    "manifest_version":2,
+    "name":"Oh I am On TVs",
+    "description":"put your self on videos",
+    "version":"1.0",
+    "browser_aciton":{
+        "default_icon":"icon.png"
+    },
+    "content_scripts":[
+        {
+            "matches":["http://*/*","https://*/*"],
+            "js":["ohIamOnVideo.js"]}
+    ]
+
+}
