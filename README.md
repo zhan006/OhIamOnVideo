@@ -16,7 +16,7 @@
 5.click Load Unpacked on the top left corner
 
 
-6.select the downloaed folder and click confirm
+6.select the downloaded folder and click confirm
 
 
-7.navigate to any video websites such as youtube see your face on the player
+7.navigate to any video websites such as youtube & see your face on the player
